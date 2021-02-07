@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Alexander SENIN</title>
+    <link>https://example.com/page/</link>
+    <description>Recent content in Pages on Alexander SENIN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>https://example.com/cv/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/cv/</guid>
+      <description>Actuellement en première année de cursus ingénieur au conservatoire national des arts et métiers de Toulouse je suis à la recherche d’un contrat de professionnalisation afin de valider mon année, d’améliorer mes compétences et d’acquérir de l’expérience de travail en entreprise.
+Expérience professionnelle  - Mai 2020 à Juillet 2020
+Stage de 10 semaines à l’IUT de Blagnac en en tant que développeur web/Android. Création d’une application web serveur et mobile afin d’informer et aider les personnes souffrant de syndromes de stress post-traumatique.</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://example.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recherche</title>
+      <link>https://example.com/recherche/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/recherche/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
